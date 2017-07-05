@@ -13,7 +13,7 @@ color: White;
 ul {
   list-style-type: none;
 }
-.navigationmenu{
+.navigationmenu li a{
   color: White;
   font-weight: bold;
   font-size: 18px;
@@ -32,6 +32,12 @@ font-weight: bold;
   font-size: 23px;
 }
 .footer {
+  background-color: gray;
+  color: White;
+  text-align: left;
+  font-size: px
+}
+.footer a{
   background-color: gray;
   color: White;
   text-align: left;
